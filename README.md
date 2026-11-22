@@ -12,7 +12,7 @@ At **TMU Wave**, I develop control and telemetry software for autonomous underwa
 
 [LinkedIn](https://www.linkedin.com/in/rogermalcolm/) &nbsp;·&nbsp; [Email](mailto:malcolmroger219@gmail.com) &nbsp;·&nbsp; [Repositories](https://github.com/rogerrrmalcolm?tab=repositories)
 
-### Contributions
+## Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/github-contribution-grid-snake-dark.svg">
@@ -20,7 +20,7 @@ At **TMU Wave**, I develop control and telemetry software for autonomous underwa
   <img alt="An animated snake moving through Roger Malcolm’s GitHub contribution graph" src="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
-### Selected work
+## Selected work
 
 **[Spatial Physics Engine](https://github.com/rogerrrmalcolm/Energy-Conversion-Simulator)**  
 Kerr spacetime and Penrose energy extraction, simulated across 25,000+ parameter states. AVX2 SIMD optimization improved throughput by 3.37×.  
@@ -34,7 +34,7 @@ ESP32 firmware with real-time signal visualization in Python. A first-place proj
 A four-agent M&A research system for financial, market, regulatory, and risk analysis, with document retrieval and Redis-backed state.  
 <sub>Python · LangGraph · FastAPI · RAG · PostgreSQL · Redis</sub>
 
-### Experience
+## Experience
 
 | Team | Work | When |
 | :--- | :--- | :--- |
@@ -43,12 +43,12 @@ A four-agent M&A research system for financial, market, regulatory, and risk ana
 | **Next Stop Toronto** | Software Engineering Intern | May – Jul 2026 |
 | **AfroLink** | Software Engineering Intern | Mar – May 2026 |
 
-### Tools I use
+## Tools I use
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,python,js,react,postgres,aws,docker,linux&amp;theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,python,js,react,postgres,aws,docker,linux&amp;theme=light">
-  <img alt="C++, Python, JavaScript, React, PostgreSQL, AWS, Docker, Linux" src="https://skillicons.dev/icons?i=cpp,python,js,react,postgres,aws,docker,linux&amp;theme=light" height="42">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp%2Cpython%2Cjs%2Creact%2Cpostgres%2Caws%2Cdocker%2Clinux&amp;theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp%2Cpython%2Cjs%2Creact%2Cpostgres%2Caws%2Cdocker%2Clinux&amp;theme=light">
+  <img alt="C++, Python, JavaScript, React, PostgreSQL, AWS, Docker, Linux" src="https://skillicons.dev/icons?i=cpp%2Cpython%2Cjs%2Creact%2Cpostgres%2Caws%2Cdocker%2Clinux&amp;theme=light" height="42">
 </picture>
 
 <br><br>
