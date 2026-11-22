@@ -1,32 +1,60 @@
-# Roger Malcolm
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Roger Malcolm — Computer Engineering at Toronto Metropolitan University" src="assets/header-light.svg" width="100%">
+</picture>
 
-Computer Engineering at Toronto Metropolitan University · Toronto, ON
+<br>
 
-[LinkedIn](https://www.linkedin.com/in/rogermalcolm/) · [Email](mailto:malcolmroger219@gmail.com)
+I’m a Computer Engineering student at **Toronto Metropolitan University**. I work on backend systems, applied AI, and software that interacts with the physical world.
 
-I work on backend systems, automation, and applied AI. At TMU Wave, I develop control and telemetry software for autonomous underwater vehicles.
+At **TMU Wave**, I develop control and telemetry software for autonomous underwater vehicles.
 
-## Projects
+[LinkedIn](https://www.linkedin.com/in/rogermalcolm/) &nbsp;·&nbsp; [Email](mailto:malcolmroger219@gmail.com) &nbsp;·&nbsp; [Repositories](https://github.com/rogerrrmalcolm?tab=repositories)
 
-- **[Spatial Physics Engine](https://github.com/rogerrrmalcolm/Energy-Conversion-Simulator)** — A C++20 simulation of Kerr spacetime and Penrose energy extraction, using graph search and AVX2 SIMD optimization.
-- **[Heart Rate Monitor](https://github.com/varenr/HeartRateMonitor)** — ESP32 firmware in C++ with real-time signal visualization in Python. First-place project.
-- **[Agentic Diligence Platform](https://github.com/rogerrrmalcolm/Bastion)** — A four-agent M&A research system built with LangGraph, FastAPI, and retrieval-augmented generation.
+### Contributions
 
-## Experience
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/github-contribution-grid-snake.svg">
+  <img alt="An animated snake moving through Roger Malcolm’s GitHub contribution graph" src="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
-| Team | Role | Dates |
-| --- | --- | --- |
-| TMU Wave | Software Developer, Autonomous Vehicles | Mar 2026 – Present |
-| Toronto Metropolitan University | Research Assistant | Jun – Aug 2026 |
-| Next Stop Toronto | Software Engineering Intern | May – Jul 2026 |
-| AfroLink | Software Engineering Intern | Mar – May 2026 |
+### Selected work
 
-## Tools
+**[Spatial Physics Engine](https://github.com/rogerrrmalcolm/Energy-Conversion-Simulator)**  
+Kerr spacetime and Penrose energy extraction, simulated across 25,000+ parameter states. AVX2 SIMD optimization improved throughput by 3.37×.  
+<sub>C++20 · Python · Graph search · SIMD</sub>
 
-**Languages:** C++, Python, C, Java, JavaScript, Go, SQL, Bash  
-**Applications & data:** React, FastAPI, PostgreSQL, Redis, PyTorch, LangGraph  
-**Infrastructure:** AWS, Docker, Kubernetes, Terraform, Linux, GitHub Actions
+**[Heart Rate Monitor](https://github.com/varenr/HeartRateMonitor)**  
+ESP32 firmware with real-time signal visualization in Python. A first-place project combining embedded systems and signal processing.  
+<sub>C++20 · ESP32 · UART · PySerial · Matplotlib</sub>
 
-## Outside of engineering
+**[Agentic Diligence Platform](https://github.com/rogerrrmalcolm/Bastion)**  
+A four-agent M&A research system for financial, market, regulatory, and risk analysis, with document retrieval and Redis-backed state.  
+<sub>Python · LangGraph · FastAPI · RAG · PostgreSQL · Redis</sub>
 
-Guitar, basketball, and weightlifting.
+### Experience
+
+| Team | Work | When |
+| :--- | :--- | :--- |
+| **TMU Wave** | Software Developer · Autonomous Vehicles | Mar 2026 – Present |
+| **Toronto Metropolitan University** | Research Assistant | Jun – Aug 2026 |
+| **Next Stop Toronto** | Software Engineering Intern | May – Jul 2026 |
+| **AfroLink** | Software Engineering Intern | Mar – May 2026 |
+
+### Tools I use
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,python,js,react,postgres,aws,docker,linux&amp;theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,python,js,react,postgres,aws,docker,linux&amp;theme=light">
+  <img alt="C++, Python, JavaScript, React, PostgreSQL, AWS, Docker, Linux" src="https://skillicons.dev/icons?i=cpp,python,js,react,postgres,aws,docker,linux&amp;theme=light" height="42">
+</picture>
+
+<br><br>
+
+**Also:** C, Java, Go, SQL, Bash · PyTorch, PySpark, Supabase · Kubernetes, Terraform, GitHub Actions
+
+---
+
+Outside of engineering: **guitar**, **basketball**, and **weightlifting**.
