@@ -120,6 +120,21 @@ def project_card(project, theme, mobile):
     return wrap(project['title'], project['desktop'] + " Open the project repository.", width, height, c, body)
 
 
+def freeze(svg):
+    """Offer a real static asset when the parent page requests reduced motion."""
+    ElementTree.register_namespace('', 'http://www.w3.org/2000/svg')
+    root = ElementTree.fromstring(svg)
+    for parent in list(root.iter()):
+        for child in list(parent):
+            tag = child.tag.rsplit('}', 1)[-1]
+            if 'motion' in child.get('class', '').split() or tag.startswith('animate') or tag == 'style':
+                parent.remove(child)
+    for element in root.iter():
+        if element.get('class') == 'still':
+            element.attrib.pop('class')
+    return ElementTree.tostring(root, encoding='unicode') + '\n'
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--out', type=Path, default=Path('dist'))
@@ -129,11 +144,15 @@ def main():
     for theme in PALETTES:
         for mobile in [False, True]:
             suffix = theme + ('-mobile' if mobile else '')
-            (args.out / f'profile-hero-{suffix}.svg').write_text(hero(theme, mobile), encoding='utf-8')
-            count += 1
+            illustration = hero(theme, mobile)
+            (args.out / f'profile-hero-{suffix}.svg').write_text(illustration, encoding='utf-8')
+            (args.out / f'profile-hero-{suffix}-still.svg').write_text(freeze(illustration), encoding='utf-8')
+            count += 2
             for project in PROJECTS:
-                (args.out / f'project-{project["slug"]}-{suffix}.svg').write_text(project_card(project, theme, mobile), encoding='utf-8')
-                count += 1
+                illustration = project_card(project, theme, mobile)
+                (args.out / f'project-{project["slug"]}-{suffix}.svg').write_text(illustration, encoding='utf-8')
+                (args.out / f'project-{project["slug"]}-{suffix}-still.svg').write_text(freeze(illustration), encoding='utf-8')
+                count += 2
     print(f'Generated {count} monochrome profile assets.')
 
 
