@@ -1,4 +1,12 @@
-# Roger Malcolm
+<p>
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/profile-hero-dark-mobile.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/profile-hero-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/profile-hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/profile-hero-light.svg">
+  <img alt="Roger Malcolm — Computer Engineering at Toronto Metropolitan University" src="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/profile-hero-light.svg" width="100%">
+</picture>
+</p>
 
 I study Computer Engineering at **Toronto Metropolitan University** and write control and telemetry software for **TMU Wave’s autonomous underwater vehicles**.
 
@@ -6,14 +14,41 @@ I study Computer Engineering at **Toronto Metropolitan University** and write co
 
 ## Selected work
 
-**[Black Hole Energy Simulation](https://github.com/rogerrrmalcolm/Energy-Conversion-Simulator)**  
-A C++20 simulation of Kerr geodesics and Penrose energy extraction, with deterministic graph search and checked scalar / AVX2 backends.
+<p>
+<a href="https://github.com/rogerrrmalcolm/Energy-Conversion-Simulator">
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-physics-dark-mobile.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-physics-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-physics-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-physics-light.svg">
+  <img alt="Black Hole Simulation — C++20 Kerr geodesics and Penrose energy extraction, with scalar and AVX2 checks" src="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-physics-light.svg" width="100%">
+</picture>
+</a>
+</p>
 
-**[Heart Rate Monitor](https://github.com/varenr/HeartRateMonitor)**  
-ESP32 firmware and live Python signal visualization, connected over UART.
+<p>
+<a href="https://github.com/varenr/HeartRateMonitor">
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-heart-dark-mobile.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-heart-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-heart-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-heart-light.svg">
+  <img alt="Heart Rate Monitor — ESP32 firmware and live Python signal visualization over UART" src="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-heart-light.svg" width="100%">
+</picture>
+</a>
+</p>
 
-**[Bastion](https://github.com/rogerrrmalcolm/Bastion)**  
-A stateful M&A research pipeline with PDF retrieval, specialist analysis, and evidence-linked reports.
+<p>
+<a href="https://github.com/rogerrrmalcolm/Bastion">
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-bastion-dark-mobile.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-bastion-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-bastion-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-bastion-light.svg">
+  <img alt="Bastion — Stateful research, PDF retrieval, and evidence-linked reports" src="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-bastion-light.svg" width="100%">
+</picture>
+</a>
+</p>
 
 <details>
 <summary>A few engineering details</summary>
@@ -38,7 +73,10 @@ Most of my work uses C++, Python, SQL, and Linux. I also work with React, FastAP
 
 </details>
 
-## Four weeks on six strings
+<details>
+<summary>Live activity</summary>
+
+**Four weeks on six strings**
 
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/activity-tab-dark-mobile.svg">
@@ -47,9 +85,6 @@ Most of my work uses C++, Python, SQL, and Linux. I also work with React, FastAP
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/activity-tab-light.svg">
   <img alt="My last 28 UTC days of public GitHub activity, arranged across six guitar strings. Rows group pushes, pull requests, reviews, issues and comments, repositories and branches, and other events." src="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/activity-tab-light.svg" width="100%">
 </picture>
-
-<details>
-<summary>How the strings work</summary>
 
 Each dot groups one day’s public GitHub events. Bigger dots mean more events; a push can contain several commits. The view refreshes daily and follows the last 28 UTC days available from GitHub’s public feed.
 
