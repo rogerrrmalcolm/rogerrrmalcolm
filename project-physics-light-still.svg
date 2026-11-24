@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="144" viewBox="0 0 1000 144" role="img" aria-labelledby="title desc">
+<title id="title">BLACK HOLE SIMULATION</title>
+<desc id="desc">Kerr geodesics, Penrose splits, scalar / AVX2 physics checks. Open the project repository.</desc>
+<rect x=".5" y=".5" width="999" height="143" fill="#fafafa" stroke="#d7d7d7" />
+<text x="32" y="28" fill="#5a5a5a" font-family="ui-monospace,Consolas,monospace" font-size="11.5" font-weight="400">01 / C++20 / PYTHON</text><text x="32" y="77" fill="#131313" font-family="'Arial Black','Segoe UI',Arial,sans-serif" font-size="33" font-weight="800">BLACK HOLE SIMULATION</text><text x="32" y="114" fill="#5a5a5a" font-family="'Segoe UI',Arial,sans-serif" font-size="15" font-weight="400">Kerr geodesics, Penrose splits, scalar / AVX2 physics checks.</text><text x="958" y="28" fill="#131313" font-family="'Segoe UI',Arial,sans-serif" font-size="18" font-weight="400">↗</text><g transform="translate(852 77) scale(0.62)" fill="none">
+<circle r="100" stroke="#d7d7d7" stroke-width=".8" />
+<circle r="83" stroke="#d7d7d7" stroke-width=".8" />
+<ellipse rx="128" ry="40" transform="rotate(-23)" stroke="#131313" stroke-width="1.2" />
+<ellipse rx="115" ry="34" transform="rotate(-23)" stroke="#131313" stroke-width=".7" opacity=".5" />
+<circle r="58" fill="#050505" stroke="#131313" stroke-width="1.2" />
+<path d="M-115 49Q-8-48 116-49" stroke="#131313" stroke-width="2.5" />
+<path d="M-115 51Q-8-43 116-47" stroke="#fafafa" stroke-width="1" />
+<g><circle cx="100" r="4" fill="#131313" /></g>
+</g>
+</svg>
