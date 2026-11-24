@@ -17,8 +17,8 @@ EVENT_ROWS = {"PushEvent": 0, "PullRequestEvent": 1, "PullRequestReviewEvent": 2
               "PullRequestReviewCommentEvent": 2, "IssuesEvent": 3,
               "IssueCommentEvent": 3, "CreateEvent": 4, "DeleteEvent": 4}
 PALETTES = {
-    "light": {"bg": "#ffffff", "text": "#59636e", "line": "#d8dee4", "accent": "#28664e", "today": "#f1f6f3"},
-    "dark": {"bg": "#0d1117", "text": "#9da7b3", "line": "#30363d", "accent": "#8cc9ab", "today": "#14221c"},
+    "light": {"bg": "#fafafa", "text": "#5a5a5a", "line": "#d7d7d7", "accent": "#131313", "today": "#eeeeee"},
+    "dark": {"bg": "#111111", "text": "#a0a0a0", "line": "#373737", "accent": "#f1f1f1", "today": "#1c1c1c"},
 }
 
 
