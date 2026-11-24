@@ -1,17 +1,16 @@
 {
   "user": "rogerrrmalcolm",
-  "start": "2026-10-27",
-  "end": "2026-11-23",
+  "start": "2026-10-28",
+  "end": "2026-11-24",
   "timezone": "UTC",
   "source": "https://api.github.com/users/rogerrrmalcolm/events/public",
   "limited_to_available_events": false,
-  "total_events": 11,
+  "total_events": 12,
   "rows": [
     {
       "string": "e",
       "label": "pushes",
       "days": [
-        0,
         0,
         0,
         0,
@@ -38,9 +37,10 @@
         0,
         0,
         2,
+        1,
         0
       ],
-      "total": 10
+      "total": 11
     },
     {
       "string": "B",
@@ -176,8 +176,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0
       ],
       "total": 1

@@ -1,32 +1,33 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="174" viewBox="0 0 720 174" role="img" aria-labelledby="title desc">
-<title id="title">rogerrrmalcolm: 11 public GitHub events over 28 UTC days</title>
-<desc id="desc">2026-10-27 through 2026-11-23 UTC. pushes: 10; pull requests: 0; reviews: 0; issues / comments: 0; repos / branches: 1; other: 0. Each dot groups one day; dot size grows with the event count.</desc>
+<title id="title">rogerrrmalcolm: 12 public GitHub events over 28 UTC days</title>
+<desc id="desc">2026-10-28 through 2026-11-24 UTC. pushes: 11; pull requests: 0; reviews: 0; issues / comments: 0; repos / branches: 1; other: 0. Each dot groups one day; dot size grows with the event count.</desc>
 <style>.today{animation:breath 4s ease-in-out infinite}@keyframes breath{50%{opacity:.55}}@media(prefers-reduced-motion:reduce){.today{animation:none}}</style>
-<rect width="720" height="174" fill="#0d1117"/>
-<rect x="693.63" y="16" width="20.74" height="124" rx="3" fill="#14221c"/>
-<path d="M278.81 16v124" stroke="#30363d" stroke-dasharray="2 5"/>
-<path d="M424.00 16v124" stroke="#30363d" stroke-dasharray="2 5"/>
-<path d="M569.19 16v124" stroke="#30363d" stroke-dasharray="2 5"/>
-<text x="2" y="32" fill="#8cc9ab" font-family="ui-monospace,Consolas,monospace" font-size="14">e</text>
-<text x="23" y="32" fill="#9da7b3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12">pushes</text>
-<path d="M144 28H704" stroke="#30363d" stroke-width="0.65"/>
-<circle cx="558.81" cy="28" r="5.33" fill="#8cc9ab"><title>2026-11-16: 8 pushes events</title></circle>
-<circle cx="683.26" cy="28" r="3.91" fill="#8cc9ab"><title>2026-11-22: 2 pushes events</title></circle>
-<text x="2" y="52" fill="#8cc9ab" font-family="ui-monospace,Consolas,monospace" font-size="14">B</text>
-<text x="23" y="52" fill="#9da7b3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12">pull requests</text>
-<path d="M144 48H704" stroke="#30363d" stroke-width="0.82"/>
-<text x="2" y="72" fill="#8cc9ab" font-family="ui-monospace,Consolas,monospace" font-size="14">G</text>
-<text x="23" y="72" fill="#9da7b3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12">reviews</text>
-<path d="M144 68H704" stroke="#30363d" stroke-width="0.99"/>
-<text x="2" y="92" fill="#8cc9ab" font-family="ui-monospace,Consolas,monospace" font-size="14">D</text>
-<text x="23" y="92" fill="#9da7b3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12">issues / comments</text>
-<path d="M144 88H704" stroke="#30363d" stroke-width="1.16"/>
-<text x="2" y="112" fill="#8cc9ab" font-family="ui-monospace,Consolas,monospace" font-size="14">A</text>
-<text x="23" y="112" fill="#9da7b3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12">repos / branches</text>
-<path d="M144 108H704" stroke="#30363d" stroke-width="1.33"/>
-<circle cx="683.26" cy="108" r="3.50" fill="#8cc9ab"><title>2026-11-22: 1 repos / branches events</title></circle>
-<text x="2" y="132" fill="#8cc9ab" font-family="ui-monospace,Consolas,monospace" font-size="14">E</text>
-<text x="23" y="132" fill="#9da7b3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12">other</text>
-<path d="M144 128H704" stroke="#30363d" stroke-width="1.50"/>
-<text x="144" y="163" fill="#9da7b3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12">Oct 27 — Nov 23, 2026 · 11 public events</text>
+<rect width="720" height="174" fill="#111111"/>
+<rect x="693.63" y="16" width="20.74" height="124" rx="3" fill="#1c1c1c"/>
+<path d="M278.81 16v124" stroke="#373737" stroke-dasharray="2 5"/>
+<path d="M424.00 16v124" stroke="#373737" stroke-dasharray="2 5"/>
+<path d="M569.19 16v124" stroke="#373737" stroke-dasharray="2 5"/>
+<text x="2" y="32" fill="#f1f1f1" font-family="ui-monospace,Consolas,monospace" font-size="14">e</text>
+<text x="23" y="32" fill="#a0a0a0" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12">pushes</text>
+<path d="M144 28H704" stroke="#373737" stroke-width="0.65"/>
+<circle cx="538.07" cy="28" r="5.33" fill="#f1f1f1"><title>2026-11-16: 8 pushes events</title></circle>
+<circle cx="662.52" cy="28" r="3.91" fill="#f1f1f1"><title>2026-11-22: 2 pushes events</title></circle>
+<circle cx="683.26" cy="28" r="3.50" fill="#f1f1f1"><title>2026-11-23: 1 pushes events</title></circle>
+<text x="2" y="52" fill="#f1f1f1" font-family="ui-monospace,Consolas,monospace" font-size="14">B</text>
+<text x="23" y="52" fill="#a0a0a0" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12">pull requests</text>
+<path d="M144 48H704" stroke="#373737" stroke-width="0.82"/>
+<text x="2" y="72" fill="#f1f1f1" font-family="ui-monospace,Consolas,monospace" font-size="14">G</text>
+<text x="23" y="72" fill="#a0a0a0" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12">reviews</text>
+<path d="M144 68H704" stroke="#373737" stroke-width="0.99"/>
+<text x="2" y="92" fill="#f1f1f1" font-family="ui-monospace,Consolas,monospace" font-size="14">D</text>
+<text x="23" y="92" fill="#a0a0a0" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12">issues / comments</text>
+<path d="M144 88H704" stroke="#373737" stroke-width="1.16"/>
+<text x="2" y="112" fill="#f1f1f1" font-family="ui-monospace,Consolas,monospace" font-size="14">A</text>
+<text x="23" y="112" fill="#a0a0a0" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12">repos / branches</text>
+<path d="M144 108H704" stroke="#373737" stroke-width="1.33"/>
+<circle cx="662.52" cy="108" r="3.50" fill="#f1f1f1"><title>2026-11-22: 1 repos / branches events</title></circle>
+<text x="2" y="132" fill="#f1f1f1" font-family="ui-monospace,Consolas,monospace" font-size="14">E</text>
+<text x="23" y="132" fill="#a0a0a0" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12">other</text>
+<path d="M144 128H704" stroke="#373737" stroke-width="1.50"/>
+<text x="144" y="163" fill="#a0a0a0" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12">Oct 28 — Nov 24, 2026 · 12 public events</text>
 </svg>
