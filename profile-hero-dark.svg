@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="270" viewBox="0 0 1000 270" role="img" aria-labelledby="title desc">
+<title id="title">Roger Malcolm</title>
+<desc id="desc">Computer Engineering at Toronto Metropolitan University. A monochrome orbital illustration accompanies the name.</desc>
+<style>.still{display:none}@media(prefers-reduced-motion:reduce){.motion{display:none}.still{display:inline}}</style>
+<rect x=".5" y=".5" width="999" height="269" fill="#111111" stroke="#373737"/>
+<text x="34" y="28" fill="#a0a0a0" font-family="ui-monospace,Consolas,monospace" font-size="12" font-weight="400" letter-spacing="1.2">COMPUTER ENGINEERING / TMU</text><text x="30" y="120" fill="#f1f1f1" font-family="'Arial Black','Segoe UI',Arial,sans-serif" font-size="107" font-weight="900">ROGER</text><text x="27" y="213" fill="#f1f1f1" font-family="'Arial Black','Segoe UI',Arial,sans-serif" font-size="105" font-weight="900">MALCOLM</text><text x="34" y="248" fill="#a0a0a0" font-family="ui-monospace,Consolas,monospace" font-size="12" font-weight="400">@rogerrrmalcolm</text><g transform="translate(826 135) scale(0.9)" fill="none">
+<circle r="100" stroke="#373737" stroke-width=".8"/>
+<circle r="83" stroke="#373737" stroke-width=".8"/>
+<ellipse rx="128" ry="40" transform="rotate(-23)" stroke="#f1f1f1" stroke-width="1.2"/>
+<ellipse rx="115" ry="34" transform="rotate(-23)" stroke="#f1f1f1" stroke-width=".7" opacity=".5"/>
+<circle r="58" fill="#050505" stroke="#f1f1f1" stroke-width="1.2"/>
+<path d="M-115 49Q-8-48 116-49" stroke="#f1f1f1" stroke-width="2.5"/>
+<path d="M-115 51Q-8-43 116-47" stroke="#111111" stroke-width="1"/>
+<g class="motion"><circle r="100" stroke="#f1f1f1" stroke-width="1.4" stroke-dasharray="3 36"/>
+<circle cx="100" r="4" fill="#f1f1f1"/><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/></g>
+<g class="still"><circle cx="100" r="4" fill="#f1f1f1"/></g>
+</g><path d="M684 25h20M694 15v20M948 236h20M958 226v20" stroke="#a0a0a0"/>
+</svg>

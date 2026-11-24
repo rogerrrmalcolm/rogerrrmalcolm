@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="242" viewBox="0 0 360 242" role="img" aria-labelledby="title desc">
+<title id="title">Roger Malcolm</title>
+<desc id="desc">Computer Engineering at Toronto Metropolitan University. A monochrome orbital illustration accompanies the name.</desc>
+<style>.still{display:none}@media(prefers-reduced-motion:reduce){.motion{display:none}.still{display:inline}}</style>
+<rect x=".5" y=".5" width="359" height="241" fill="#fafafa" stroke="#d7d7d7"/>
+<text x="18" y="23" fill="#5a5a5a" font-family="ui-monospace,Consolas,monospace" font-size="10.5" font-weight="400" letter-spacing="0.7">@ROGERRRMALCOLM</text><g transform="translate(309 57) scale(0.28)" fill="none">
+<circle r="100" stroke="#d7d7d7" stroke-width=".8"/>
+<circle r="83" stroke="#d7d7d7" stroke-width=".8"/>
+<ellipse rx="128" ry="40" transform="rotate(-23)" stroke="#131313" stroke-width="1.2"/>
+<ellipse rx="115" ry="34" transform="rotate(-23)" stroke="#131313" stroke-width=".7" opacity=".5"/>
+<circle r="58" fill="#050505" stroke="#131313" stroke-width="1.2"/>
+<path d="M-115 49Q-8-48 116-49" stroke="#131313" stroke-width="2.5"/>
+<path d="M-115 51Q-8-43 116-47" stroke="#fafafa" stroke-width="1"/>
+<g class="motion"><circle r="100" stroke="#131313" stroke-width="1.4" stroke-dasharray="3 36"/>
+<circle cx="100" r="4" fill="#131313"/><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/></g>
+<g class="still"><circle cx="100" r="4" fill="#131313"/></g>
+</g><text x="18" y="94" fill="#131313" font-family="'Arial Black','Segoe UI',Arial,sans-serif" font-size="64" font-weight="900">ROGER</text><text x="18" y="157" fill="#131313" font-family="'Arial Black','Segoe UI',Arial,sans-serif" font-size="54" font-weight="900">MALCOLM</text><path d="M18 187H342" stroke="#131313" stroke-width="1.4"/><text x="18" y="217" fill="#5a5a5a" font-family="ui-monospace,Consolas,monospace" font-size="11.5" font-weight="400">COMPUTER ENGINEERING / TMU</text>
+</svg>

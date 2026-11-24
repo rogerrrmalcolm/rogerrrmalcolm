@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="144" viewBox="0 0 1000 144" role="img" aria-labelledby="title desc">
+<title id="title">HEART RATE MONITOR</title>
+<desc id="desc">ESP32 sensing with live Python signal visualization over UART. Open the project repository.</desc>
+<style>.still{display:none}@media(prefers-reduced-motion:reduce){.motion{display:none}.still{display:inline}}</style>
+<rect x=".5" y=".5" width="999" height="143" fill="#fafafa" stroke="#d7d7d7"/>
+<text x="32" y="28" fill="#5a5a5a" font-family="ui-monospace,Consolas,monospace" font-size="11.5" font-weight="400">02 / ESP32 / C++ / PYTHON</text><text x="32" y="77" fill="#131313" font-family="'Arial Black','Segoe UI',Arial,sans-serif" font-size="33" font-weight="800">HEART RATE MONITOR</text><text x="32" y="114" fill="#5a5a5a" font-family="'Segoe UI',Arial,sans-serif" font-size="15" font-weight="400">ESP32 sensing with live Python signal visualization over UART.</text><text x="958" y="28" fill="#131313" font-family="'Segoe UI',Arial,sans-serif" font-size="18" font-weight="400">↗</text><g transform="translate(852 77) scale(0.62)" fill="none">
+<path d="M-111-47V47M-55-47V47M0-47V47M55-47V47M111-47V47M-111-40H111M-111 0H111M-111 40H111" stroke="#d7d7d7" stroke-width=".8"/>
+<path d="M-105 2H-68L-57-12-44 2H-27L-13-45 3 42 16-22 28 2H105" stroke="#5a5a5a" stroke-width="2" stroke-linejoin="round"/>
+<path class="motion" d="M-105 2H-68L-57-12-44 2H-27L-13-45 3 42 16-22 28 2H105" stroke="#131313" stroke-width="3" stroke-linejoin="round" stroke-dasharray="75 360"><animate attributeName="stroke-dashoffset" from="435" to="0" dur="3.5s" repeatCount="indefinite"/></path>
+</g>
+</svg>
