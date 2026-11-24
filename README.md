@@ -1,5 +1,9 @@
 <p>
 <picture>
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/profile-hero-dark-mobile-still.svg">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/profile-hero-light-mobile-still.svg">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/profile-hero-dark-still.svg">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/profile-hero-light-still.svg">
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/profile-hero-dark-mobile.svg">
   <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/profile-hero-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/profile-hero-dark.svg">
@@ -17,6 +21,10 @@ I study Computer Engineering at **Toronto Metropolitan University** and write co
 <p>
 <a href="https://github.com/rogerrrmalcolm/Energy-Conversion-Simulator">
 <picture>
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-physics-dark-mobile-still.svg">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-physics-light-mobile-still.svg">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-physics-dark-still.svg">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-physics-light-still.svg">
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-physics-dark-mobile.svg">
   <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-physics-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-physics-dark.svg">
@@ -29,6 +37,10 @@ I study Computer Engineering at **Toronto Metropolitan University** and write co
 <p>
 <a href="https://github.com/varenr/HeartRateMonitor">
 <picture>
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-heart-dark-mobile-still.svg">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-heart-light-mobile-still.svg">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-heart-dark-still.svg">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-heart-light-still.svg">
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-heart-dark-mobile.svg">
   <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-heart-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-heart-dark.svg">
@@ -41,6 +53,10 @@ I study Computer Engineering at **Toronto Metropolitan University** and write co
 <p>
 <a href="https://github.com/rogerrrmalcolm/Bastion">
 <picture>
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-bastion-dark-mobile-still.svg">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-bastion-light-mobile-still.svg">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-bastion-dark-still.svg">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-bastion-light-still.svg">
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-bastion-dark-mobile.svg">
   <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-bastion-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogerrrmalcolm/rogerrrmalcolm/output/project-bastion-dark.svg">
