@@ -40,6 +40,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/contribution-snake.svg
+            dist/contribution-snake-dark.svg?palette=github-dark
 
       - name: Generate guitar activity tabs
         run: python3 scripts/build_activity_tab.py --user "$PROFILE_OWNER" --out dist
