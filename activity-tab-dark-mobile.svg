@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="360" height="190" viewBox="0 0 360 190" role="img" aria-labelledby="title desc">
-<title id="title">rogerrrmalcolm: 17 public GitHub events over 28 UTC days</title>
-<desc id="desc">2026-10-28 through 2026-11-24 UTC. pushes: 16; pull requests: 0; reviews: 0; issues / comments: 0; repos / branches: 1; other: 0. Each dot groups one day; dot size grows with the event count.</desc>
+<title id="title">rogerrrmalcolm: 20 public GitHub events over 28 UTC days</title>
+<desc id="desc">2026-10-29 through 2026-11-25 UTC. pushes: 19; pull requests: 0; reviews: 0; issues / comments: 0; repos / branches: 1; other: 0. Each dot groups one day; dot size grows with the event count.</desc>
 <style>.today{animation:breath 4s ease-in-out infinite}@keyframes breath{50%{opacity:.55}}@media(prefers-reduced-motion:reduce){.today{animation:none}}</style>
 <rect width="360" height="190" fill="#111111"/>
 <rect x="338.15" y="16" width="11.70" height="124" rx="3" fill="#1c1c1c"/>
@@ -9,10 +9,10 @@
 <path d="M267.93 16v124" stroke="#373737" stroke-dasharray="2 5"/>
 <text x="2" y="32" fill="#f1f1f1" font-family="ui-monospace,Consolas,monospace" font-size="16">e</text>
 <path d="M28 28H344" stroke="#373737" stroke-width="0.65"/>
-<circle cx="250.37" cy="28" r="4.50" fill="#f1f1f1"><title>2026-11-16: 8 pushes events</title></circle>
-<circle cx="320.59" cy="28" r="3.91" fill="#f1f1f1"><title>2026-11-22: 2 pushes events</title></circle>
-<circle cx="332.30" cy="28" r="3.91" fill="#f1f1f1"><title>2026-11-23: 2 pushes events</title></circle>
-<circle cx="344.00" cy="28" r="4.50" fill="#f1f1f1" class="today"><title>2026-11-24: 4 pushes events</title></circle>
+<circle cx="238.67" cy="28" r="4.50" fill="#f1f1f1"><title>2026-11-16: 8 pushes events</title></circle>
+<circle cx="308.89" cy="28" r="3.91" fill="#f1f1f1"><title>2026-11-22: 2 pushes events</title></circle>
+<circle cx="320.59" cy="28" r="3.91" fill="#f1f1f1"><title>2026-11-23: 2 pushes events</title></circle>
+<circle cx="332.30" cy="28" r="4.50" fill="#f1f1f1"><title>2026-11-24: 7 pushes events</title></circle>
 <text x="2" y="52" fill="#f1f1f1" font-family="ui-monospace,Consolas,monospace" font-size="16">B</text>
 <path d="M28 48H344" stroke="#373737" stroke-width="0.82"/>
 <text x="2" y="72" fill="#f1f1f1" font-family="ui-monospace,Consolas,monospace" font-size="16">G</text>
@@ -21,9 +21,9 @@
 <path d="M28 88H344" stroke="#373737" stroke-width="1.16"/>
 <text x="2" y="112" fill="#f1f1f1" font-family="ui-monospace,Consolas,monospace" font-size="16">A</text>
 <path d="M28 108H344" stroke="#373737" stroke-width="1.33"/>
-<circle cx="320.59" cy="108" r="3.50" fill="#f1f1f1"><title>2026-11-22: 1 repos / branches events</title></circle>
+<circle cx="308.89" cy="108" r="3.50" fill="#f1f1f1"><title>2026-11-22: 1 repos / branches events</title></circle>
 <text x="2" y="132" fill="#f1f1f1" font-family="ui-monospace,Consolas,monospace" font-size="16">E</text>
 <path d="M28 128H344" stroke="#373737" stroke-width="1.50"/>
-<text x="28" y="163" fill="#a0a0a0" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12">Oct 28 — Nov 24 · 17 events</text>
+<text x="28" y="163" fill="#a0a0a0" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12">Oct 29 — Nov 25 · 20 events</text>
 <text x="28" y="183" fill="#a0a0a0" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12">Public GitHub events · UTC</text>
 </svg>
