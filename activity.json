@@ -5,7 +5,7 @@
   "timezone": "UTC",
   "source": "https://api.github.com/users/rogerrrmalcolm/events/public",
   "limited_to_available_events": false,
-  "total_events": 20,
+  "total_events": 21,
   "rows": [
     {
       "string": "e",
@@ -36,11 +36,11 @@
         0,
         0,
         2,
-        2,
+        3,
         7,
         0
       ],
-      "total": 19
+      "total": 20
     },
     {
       "string": "B",
