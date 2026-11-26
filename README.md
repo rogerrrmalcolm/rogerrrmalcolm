@@ -89,11 +89,21 @@ hobbies:
 🎓 &nbsp;**Toronto Metropolitan University** &nbsp;`Jun–Aug 2026`
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Assistant
 
+- Engineered an Excel and SQL ETL pipeline combining four datasets and **56,000+ newsletter records**, reducing data-processing time by **35%**.
+- Analyzed engagement across **200+ newsletters** with PySpark, classifying performance into three tiers and identifying engagement trends.
+
 🚏 &nbsp;**Next Stop Toronto** &nbsp;`May–Jul 2026`
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software Engineering Intern
 
+- Built n8n and Codex SDK email automation for **200+ contacts**, reducing campaign setup time by **55%**.
+- Developed Python, Pandas, PostgreSQL, and Grafana analytics for workflow throughput, API failures, and reliability, reducing workflow errors by **25%**.
+- Containerized workflows with Docker, reducing environment-related setup and debugging time by **30%**.
+
 💻 &nbsp;**AfroLink** &nbsp;`Mar–May 2026`
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software Engineering Intern
+
+- Deployed a React/PostgreSQL application and REST API serving **100+ users**, increasing successful user conversions by **25%**.
+- Implemented **20+ AWS Lambda functions** and optimized EC2, RDS, and S3 resources, reducing cloud spend by **45%** and forecasting **$1,000+ in annual infrastructure savings**.
 
 <br/>
 
